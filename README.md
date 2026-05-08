@@ -37,15 +37,16 @@ Handles modding the item data.
 
 <img width="1517" height="847" alt="ts11" src="https://github.com/user-attachments/assets/2819040f-fc6a-465f-a29b-dcf98e9a80cf" />
 
-# Map Editor
+# Everlasting Steel, 3D Map Editor
 
 This is very different from Steel Guider. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved where Si Shui Gate is actually located. The videos showing this are in the musou warriors discord server.
 
-Map Editor is going to be redesigned with a Steel theme but i included a sneak peak image of what the prototype originally looked like. Images show examples of modding the map, one shows Si Shui Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.
+Map Editor is going to be redesigned with a Steel theme but i included a sneak peak image of what the prototype looks like. Images show examples of modding the map, one shows Si Shui Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.
 
-You will not be able to import custom models from other games. DW2 uses a custom model format, specifically a model container (.ps2 specifically). I would rather focus my time on making a full fledged map editor than spend tons of time dealing with model conversion work (since i'd have to implement logic for converting obj, fbx, etc to .ps2).
-
-<img width="995" height="808" alt="ts9" src="https://github.com/user-attachments/assets/af1b3016-2c47-46f5-bf93-0c02e39f0873" />
+<img width="1428" height="896" alt="28" src="https://github.com/user-attachments/assets/7ba36212-6ea8-4f52-893c-fc8680d14584" />
+<img width="1432" height="898" alt="29" src="https://github.com/user-attachments/assets/2eb3b966-e146-4f59-b451-7c5b18c43bce" />
+<img width="1452" height="902" alt="31" src="https://github.com/user-attachments/assets/b5e0b2b7-73da-43f4-a33a-5267a5801d4a" />
+<img width="1802" height="741" alt="38" src="https://github.com/user-attachments/assets/5cc790f8-eda1-4aa6-9d23-b4511295862f" />
 <img width="1267" height="724" alt="map2" src="https://github.com/user-attachments/assets/26df4697-404c-4495-8b21-341001cb087b" />
 <img width="1277" height="720" alt="ts8" src="https://github.com/user-attachments/assets/3754b6b2-4e95-48d1-9cc8-b178683a2e36" />
 
