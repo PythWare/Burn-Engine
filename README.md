@@ -37,14 +37,14 @@ Handles modding the item data.
 
 # Celica Mapworks, 3D Map Editor
 
-This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved where Si Shui Gate is actually located. The videos showing this are in the musou warriors discord server.
+This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved one of where the gates is actually located. The videos showing this are in the musou warriors discord server.
 
-Images show examples of a map, one shows Si Shui Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.
+Images show examples of a map, one shows a Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.
 
-<img width="1428" height="896" alt="28" src="https://github.com/user-attachments/assets/7ba36212-6ea8-4f52-893c-fc8680d14584" />
-<img width="1432" height="898" alt="29" src="https://github.com/user-attachments/assets/2eb3b966-e146-4f59-b451-7c5b18c43bce" />
-<img width="1452" height="902" alt="31" src="https://github.com/user-attachments/assets/b5e0b2b7-73da-43f4-a33a-5267a5801d4a" />
-<img width="1802" height="741" alt="38" src="https://github.com/user-attachments/assets/5cc790f8-eda1-4aa6-9d23-b4511295862f" />
+<img width="1920" height="1036" alt="b9" src="https://github.com/user-attachments/assets/2c5c77d5-8674-420f-b443-40b18231ca1b" />
+<img width="1920" height="1043" alt="b10" src="https://github.com/user-attachments/assets/29952415-c8b3-47b5-ab3f-3480c99c61f5" />
+<img width="1920" height="1036" alt="arch5" src="https://github.com/user-attachments/assets/0366c989-3394-4e45-965b-ec53a2755e3a" />
+<img width="1403" height="827" alt="y4" src="https://github.com/user-attachments/assets/2a3caef0-e73d-4dc6-b7ef-64a4b04aa2cf" />
 <img width="1267" height="724" alt="map2" src="https://github.com/user-attachments/assets/26df4697-404c-4495-8b21-341001cb087b" />
 <img width="1277" height="720" alt="ts8" src="https://github.com/user-attachments/assets/3754b6b2-4e95-48d1-9cc8-b178683a2e36" />
 
