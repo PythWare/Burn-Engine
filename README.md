@@ -39,12 +39,19 @@ Handles modding the item data.
 
 This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved one of where the gates is actually located. The videos showing this are in the musou warriors discord server.
 
-Images show examples of a map, one shows a Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.
+Images show examples of maps being rendered, one shows a Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.
 
 <img width="1920" height="1036" alt="b9" src="https://github.com/user-attachments/assets/2c5c77d5-8674-420f-b443-40b18231ca1b" />
 <img width="1920" height="1043" alt="b10" src="https://github.com/user-attachments/assets/29952415-c8b3-47b5-ab3f-3480c99c61f5" />
 <img width="1920" height="1036" alt="arch5" src="https://github.com/user-attachments/assets/0366c989-3394-4e45-965b-ec53a2755e3a" />
 <img width="1403" height="827" alt="y4" src="https://github.com/user-attachments/assets/2a3caef0-e73d-4dc6-b7ef-64a4b04aa2cf" />
+
+With Textures rendered
+
+<img width="1920" height="1038" alt="map1" src="https://github.com/user-attachments/assets/c069c64f-3355-4d96-9878-3b29e4a55706" />
+<img width="1920" height="1042" alt="map2" src="https://github.com/user-attachments/assets/090260b5-08dd-4fb7-80cf-4411a6479987" />
+<img width="1914" height="1026" alt="map3" src="https://github.com/user-attachments/assets/2272ad53-8090-4e6e-afe7-f51b41103a8d" />
+<img width="1917" height="1038" alt="map4" src="https://github.com/user-attachments/assets/dc0a1390-b953-4330-8022-97d4353b4872" />
 <img width="1267" height="724" alt="map2" src="https://github.com/user-attachments/assets/26df4697-404c-4495-8b21-341001cb087b" />
 <img width="1277" height="720" alt="ts8" src="https://github.com/user-attachments/assets/3754b6b2-4e95-48d1-9cc8-b178683a2e36" />
 
