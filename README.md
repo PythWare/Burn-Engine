@@ -48,10 +48,12 @@ Images show examples of maps being rendered, one shows a Gate positioned further
 
 With Textures rendered
 
-<img width="1920" height="1038" alt="map1" src="https://github.com/user-attachments/assets/c069c64f-3355-4d96-9878-3b29e4a55706" />
-<img width="1920" height="1042" alt="map2" src="https://github.com/user-attachments/assets/090260b5-08dd-4fb7-80cf-4411a6479987" />
-<img width="1914" height="1026" alt="map3" src="https://github.com/user-attachments/assets/2272ad53-8090-4e6e-afe7-f51b41103a8d" />
-<img width="1917" height="1038" alt="map4" src="https://github.com/user-attachments/assets/dc0a1390-b953-4330-8022-97d4353b4872" />
+<img width="1586" height="841" alt="guandu1" src="https://github.com/user-attachments/assets/77ed5acf-0f26-41a6-a911-6486ead7c9fc" />
+<img width="1895" height="882" alt="guandu2" src="https://github.com/user-attachments/assets/2d6a1989-d83d-46a0-8dd9-3985afb07e61" />
+<img width="1671" height="785" alt="guandu4" src="https://github.com/user-attachments/assets/5d071041-454c-4c16-9c99-d5c5f7605a25" />
+<img width="1903" height="814" alt="ytrt1" src="https://github.com/user-attachments/assets/0a1a5a60-4134-48ba-90af-b442e235ce53" />
+<img width="1920" height="1037" alt="chibit1" src="https://github.com/user-attachments/assets/3e200529-7584-40cf-a1f4-e9c6f41d832d" />
+<img width="1918" height="1038" alt="hlgt1" src="https://github.com/user-attachments/assets/0f94f35c-1933-4e24-baac-4e385ee39266" />
 
 Ingame examples
 
