@@ -56,7 +56,7 @@ Ingame examples (shows a Gate positioned further north while the other shows the
 
 Credit goes to Michael, Passion Wagon, Aurvi, and The Tempest for documentation with Stage/Morale Data. Credit also goes to Michael for documentation on model, motion/moveset, and color values. Michael gave permission for me to include his lists of documentation in Visual Guider so credit goes to him for the model, motion/moveset, and army color values/strings. Further credit also goes to Michael for discovering the data that determines if player bodyguards follow like AI guards. 
 
-I only take credit for the code/design of Burn Engine and also the understanding of map formats (gob, cob, ob2, etc for maps).
+I only take credit for the code/design of Burn Engine, Celica Mapworks, and any other modding software I make but also the understanding of map formats (gob, cob, ob2, etc for maps).
 
 # Future Plans
 
