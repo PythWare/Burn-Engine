@@ -1,6 +1,6 @@
 # Update
 
-I will no longer work on Burn Engine or other modding software for the dynastywarriors subreddit. I have endured a lot of hate and ungrateful behavior despite doing all of the reversing on my own and making good software for making modding accessible. I am not paid to do any of this and I am done. Going forward, games I build modding software for will be other games such as RWBY GE. If I develop any further software for modding games owned by Koei Tecmo, the software will be private.
+Burn Engine will be ready to release soon with many new features for modding Dynasty Warriors 2
 
 # Info
 Burn Engine is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 tools I made in the past. It's not ready to release but i'll explain the future features. Burn Engine is inspired by Yang Xiao Long from RWBY.
