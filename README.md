@@ -41,15 +41,14 @@ Handles modding the item data.
 
 # Celica Mapworks, 3D Map Editor
 
-This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved one of where the gates is actually located. The videos showing this are in the musou warriors discord server.
+This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), pathfinding data, and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved one of where the gates is actually located. The videos showing this are in the musou warriors discord server.
 
 Images show examples of maps being rendered.
 <img width="1586" height="841" alt="guandu1" src="https://github.com/user-attachments/assets/77ed5acf-0f26-41a6-a911-6486ead7c9fc" />
 <img width="1895" height="882" alt="guandu2" src="https://github.com/user-attachments/assets/2d6a1989-d83d-46a0-8dd9-3985afb07e61" />
 <img width="1671" height="785" alt="guandu4" src="https://github.com/user-attachments/assets/5d071041-454c-4c16-9c99-d5c5f7605a25" />
 <img width="1903" height="814" alt="ytrt1" src="https://github.com/user-attachments/assets/0a1a5a60-4134-48ba-90af-b442e235ce53" />
-<img width="1920" height="1037" alt="chibit1" src="https://github.com/user-attachments/assets/3e200529-7584-40cf-a1f4-e9c6f41d832d" />
-<img width="1918" height="1038" alt="hlgt1" src="https://github.com/user-attachments/assets/0f94f35c-1933-4e24-baac-4e385ee39266" />
+<img width="1920" height="1040" alt="celic12" src="https://github.com/user-attachments/assets/1d5ad7f6-6e37-4745-b69e-87f89d03aca3" />
 
 Ingame examples (shows a Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.)
 
