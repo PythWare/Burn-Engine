@@ -5,7 +5,7 @@ Burn Engine will be ready to release soon with many new features for modding Dyn
 # Info
 Burn Engine is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 tools I made in the past. It's not ready to release but i'll explain the future features. Burn Engine is inspired by Yang Xiao Long from RWBY.
 
-<img width="1920" height="1043" alt="b1" src="https://github.com/user-attachments/assets/5310e8d8-3f7c-42a9-a258-4f52403896f2" />
+<img width="1919" height="1035" alt="emb1" src="https://github.com/user-attachments/assets/e16e936f-8f18-4355-ae88-39abd9ee9ae6" />
 
 # Afterburn Stageworks (meant to replace Visual Guider as the main Stage Editor to use)
 
@@ -38,6 +38,18 @@ This tool handles modding player bodyguards. Ever noticed how player bodyguards 
 Handles modding the item data.
 
 <img width="1917" height="1037" alt="b5" src="https://github.com/user-attachments/assets/805af078-08f7-4eec-9bf0-aead1fc63f42" />
+
+# Emberchain
+
+Handles ATK data, attack properties.
+
+<img width="1915" height="1038" alt="emb3" src="https://github.com/user-attachments/assets/69118e7e-7ddb-4cbf-9a65-32548d2241f9" />
+
+# Emberflow
+
+Handles MOV data, properties for moveset animations.
+
+<img width="1917" height="1036" alt="emb7" src="https://github.com/user-attachments/assets/a44df5ae-ae0b-4136-b721-3a33dd568383" />
 
 # Celica Mapworks, 3D Map Editor
 
