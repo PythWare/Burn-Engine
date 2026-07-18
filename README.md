@@ -53,9 +53,11 @@ Handles MOV data, properties for moveset animations.
 
 # Overdrive Motionworks
 
-A 3D moveset editor that renders a skeleton and animates it based on the MOT files (moveset animations), it's in the early stage but it renders all moveset animations and will soon support creating custom movesets
+A 3D moveset editor that renders models and animates it based on the MOT files (moveset animations), it's in the early stage but it renders all moveset animations and will soon support creating custom movesets
 
-<img width="1917" height="1035" alt="iburn2" src="https://github.com/user-attachments/assets/00b4d5db-dc87-4d5e-95ee-61b97395fb54" />
+<img width="1907" height="1039" alt="ov1" src="https://github.com/user-attachments/assets/06d65a67-15e4-4e43-adb0-250dc4f223c1" />
+
+<img width="1911" height="1026" alt="ov3" src="https://github.com/user-attachments/assets/a8cbb010-f2b5-45c3-9663-0a1ee13e7115" />
 
 # Celica Mapworks, 3D Map Editor
 
@@ -67,6 +69,16 @@ Images show examples of maps being rendered.
 <img width="1671" height="785" alt="guandu4" src="https://github.com/user-attachments/assets/5d071041-454c-4c16-9c99-d5c5f7605a25" />
 <img width="1903" height="814" alt="ytrt1" src="https://github.com/user-attachments/assets/0a1a5a60-4134-48ba-90af-b442e235ce53" />
 <img width="1920" height="1040" alt="celic12" src="https://github.com/user-attachments/assets/1d5ad7f6-6e37-4745-b69e-87f89d03aca3" />
+
+Images show examples of pathfinding data rendered and moddable
+
+<img width="1905" height="1028" alt="cm9" src="https://github.com/user-attachments/assets/316638a3-0954-4e42-8bf5-6fb3223d5755" />
+
+<img width="1919" height="1029" alt="cm3" src="https://github.com/user-attachments/assets/a04af13e-25fc-40bb-8dd2-0ce71864026d" />
+
+<img width="1917" height="1034" alt="cm1" src="https://github.com/user-attachments/assets/8be766e9-a87c-4eac-970d-84ce604aedc3" />
+
+<img width="1898" height="1028" alt="cm7" src="https://github.com/user-attachments/assets/4199f9d3-bd25-49d2-abbe-1f4a6a295a4e" />
 
 Ingame examples (shows a Gate positioned further north while the other shows the breakable boxes/vases that originally start near one of the respawn gates near Yuan Shao being placed near a tree further south.)
 
