@@ -87,6 +87,14 @@ Ingame examples (shows a Gate positioned further north while the other shows the
 <img width="1267" height="724" alt="map2" src="https://github.com/user-attachments/assets/26df4697-404c-4495-8b21-341001cb087b" />
 <img width="1277" height="720" alt="ts8" src="https://github.com/user-attachments/assets/3754b6b2-4e95-48d1-9cc8-b178683a2e36" />
 
+Image examples of Yang Xiao Long playable in DW2 (I will be giving her a custom brawler moveset later on)
+
+<img width="1295" height="909" alt="ov8" src="https://github.com/user-attachments/assets/7e4264d1-3da9-4d0d-8bb8-7d829ee471ed" />
+
+<img width="1358" height="1010" alt="ov10" src="https://github.com/user-attachments/assets/8161a1c5-d4c5-493d-8193-3d8e1bb4a3ff" />
+
+<img width="1359" height="1018" alt="ov11" src="https://github.com/user-attachments/assets/24189b2c-27b5-461f-9823-14eb5c6df7b8" />
+
 # Credits
 
 Credit goes to Michael, Passion Wagon, Aurvi, and The Tempest for documentation with Stage/Morale Data. Credit also goes to Michael for documentation on model, motion/moveset, and color values. Michael gave permission for me to include his lists of documentation in Visual Guider so credit goes to him for the model, motion/moveset, and army color values/strings. Further credit also goes to Michael for discovering the data that determines if player bodyguards follow like AI guards. 
