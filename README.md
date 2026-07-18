@@ -59,6 +59,8 @@ A 3D moveset editor that renders models and animates it based on the MOT files (
 
 <img width="1911" height="1026" alt="ov3" src="https://github.com/user-attachments/assets/a8cbb010-f2b5-45c3-9663-0a1ee13e7115" />
 
+<img width="1894" height="1035" alt="ov6" src="https://github.com/user-attachments/assets/e3e57150-bf3d-4e88-aa3c-72249d9e82a8" />
+
 # Celica Mapworks, 3D Map Editor
 
 This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), pathfinding data, and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved one of where the gates is actually located. The videos showing this are in the musou warriors discord server.
