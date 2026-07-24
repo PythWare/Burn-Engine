@@ -76,7 +76,6 @@ Images show examples of maps being rendered.
 <img width="1895" height="882" alt="guandu2" src="https://github.com/user-attachments/assets/2d6a1989-d83d-46a0-8dd9-3985afb07e61" />
 <img width="1671" height="785" alt="guandu4" src="https://github.com/user-attachments/assets/5d071041-454c-4c16-9c99-d5c5f7605a25" />
 <img width="1903" height="814" alt="ytrt1" src="https://github.com/user-attachments/assets/0a1a5a60-4134-48ba-90af-b442e235ce53" />
-<img width="1920" height="1040" alt="celic12" src="https://github.com/user-attachments/assets/1d5ad7f6-6e37-4745-b69e-87f89d03aca3" />
 
 Images show examples of pathfinding data rendered and moddable
 
