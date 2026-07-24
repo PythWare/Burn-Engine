@@ -5,6 +5,8 @@ Burn Engine will be ready to release soon with many new features for modding Dyn
 # Info
 Burn Engine is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 tools I made in the past. It's not ready to release but i'll explain the future features. Burn Engine is inspired by Yang Xiao Long from RWBY.
 
+Written in Python, uses Tkinter (the GUI for the editors/hubs, highly optimized and custom designs) and pyglet for Map/Model/Animation rendering.
+
 <img width="1913" height="1027" alt="iburn1" src="https://github.com/user-attachments/assets/92431727-3a5b-44dc-a74c-e165b2928365" />
 
 # Afterburn Stageworks (meant to replace Visual Guider as the main Stage Editor to use)
@@ -65,7 +67,7 @@ A 3D moveset editor that renders models and animates it based on the MOT files (
 
 This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), pathfinding data, and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved one of where the gates is actually located. The videos showing this are in the musou warriors discord server.
 
-Main Hub
+Main Hub, transparent floating spheres (the Yang background image is my homescreen)
 
 <img width="1203" height="726" alt="gui1" src="https://github.com/user-attachments/assets/6cdda9e5-ec9e-4036-bc5f-bcecc1ee6227" />
 
