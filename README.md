@@ -67,9 +67,18 @@ A 3D moveset editor that renders models and animates it based on the MOT files (
 
 This is very different from Afterburn Stageworks. Stage Data (what the Stage Editor mods) involves what is basically battlefield data, like who fights on the stage. The Map Editor will mod the literal maps. That'll include objects on the map (gates, walls, castles, boxes, towers, flags, breakable boxes/vases, etc), collision data so objects have proper physics, terrain data (the terrain itself such as hills, land, etc), pathfinding data, and other things. The end result will be allowing you to create entirely custom and new maps. This is a work in progress but it has been tested by me and i've even made videos of playing on a custom Hu Lao Gate map where I moved one of where the gates is actually located. The videos showing this are in the musou warriors discord server.
 
-Main Hub, transparent floating spheres (the Yang background image is my homescreen)
+CM can also port maps that are in GLB format to DW2, creating valid VIF1 packets.
 
-<img width="1203" height="726" alt="gui1" src="https://github.com/user-attachments/assets/6cdda9e5-ec9e-4036-bc5f-bcecc1ee6227" />
+Main Hub, transparent floating spheres and parallelograms (not sure yet if I want to go the ring or parallelogram approach yet for the GUI). The Yang background image is my homescreen
+
+<img width="977" height="651" alt="ncm7" src="https://github.com/user-attachments/assets/81bcec64-bc60-4908-bb50-810f8adff5f5" />
+<img width="1088" height="717" alt="thisor" src="https://github.com/user-attachments/assets/ed058066-586a-476a-9b9b-b44c052992b9" />
+
+Ported Maps (Beaocn Academy & Downtown Vale)
+
+<img width="1911" height="1033" alt="ncm1" src="https://github.com/user-attachments/assets/ca271846-67a0-44f5-a14f-29ce51c7c8f6" />
+<img width="1911" height="1036" alt="ncm3" src="https://github.com/user-attachments/assets/91b69fe8-ce48-44ae-8fa0-ea248b25449f" />
+<img width="1912" height="1033" alt="ncm9" src="https://github.com/user-attachments/assets/781bea9d-5660-4879-9b31-37987fb11c82" />
 
 Images show examples of maps being rendered.
 <img width="1586" height="841" alt="guandu1" src="https://github.com/user-attachments/assets/77ed5acf-0f26-41a6-a911-6486ead7c9fc" />
