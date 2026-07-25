@@ -74,7 +74,7 @@ Main Hub, transparent floating spheres and parallelograms (not sure yet if I wan
 <img width="977" height="651" alt="ncm7" src="https://github.com/user-attachments/assets/81bcec64-bc60-4908-bb50-810f8adff5f5" />
 <img width="1088" height="717" alt="thisor" src="https://github.com/user-attachments/assets/ed058066-586a-476a-9b9b-b44c052992b9" />
 
-Ported Maps (Beaocn Academy & Downtown Vale)
+Ported Maps (Beacon Academy & Downtown Vale)
 
 <img width="1911" height="1033" alt="ncm1" src="https://github.com/user-attachments/assets/ca271846-67a0-44f5-a14f-29ce51c7c8f6" />
 <img width="1911" height="1036" alt="ncm3" src="https://github.com/user-attachments/assets/91b69fe8-ce48-44ae-8fa0-ea248b25449f" />
