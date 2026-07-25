@@ -80,13 +80,13 @@ Ported Maps (Beacon Academy & Downtown Vale)
 <img width="1911" height="1036" alt="ncm3" src="https://github.com/user-attachments/assets/91b69fe8-ce48-44ae-8fa0-ea248b25449f" />
 <img width="1912" height="1033" alt="ncm9" src="https://github.com/user-attachments/assets/781bea9d-5660-4879-9b31-37987fb11c82" />
 
-Images show examples of maps being rendered.
+Examples of original DW2 maps being rendered
 <img width="1586" height="841" alt="guandu1" src="https://github.com/user-attachments/assets/77ed5acf-0f26-41a6-a911-6486ead7c9fc" />
 <img width="1895" height="882" alt="guandu2" src="https://github.com/user-attachments/assets/2d6a1989-d83d-46a0-8dd9-3985afb07e61" />
 <img width="1671" height="785" alt="guandu4" src="https://github.com/user-attachments/assets/5d071041-454c-4c16-9c99-d5c5f7605a25" />
 <img width="1903" height="814" alt="ytrt1" src="https://github.com/user-attachments/assets/0a1a5a60-4134-48ba-90af-b442e235ce53" />
 
-Images show examples of pathfinding data rendered and moddable
+Examples of pathfinding data rendered and moddable
 
 <img width="1905" height="1028" alt="cm9" src="https://github.com/user-attachments/assets/316638a3-0954-4e42-8bf5-6fb3223d5755" />
 
