@@ -5,7 +5,7 @@ Burn Engine is released but Overdrive Motionworks and Celica Mapworks will take 
 # Info
 Burn Engine is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 tools I made in the past. Burn Engine is inspired by Yang Xiao Long from RWBY.
 
-Written in Python, uses Tkinter (the GUI for the editors/hubs, highly optimized and custom designs) and pyglet for Map/Model/Animation rendering. Scroll down for example images of the toolkit if desired
+Scroll down for example images of the toolkit if desired
 
 <img width="1908" height="1033" alt="burn1" src="https://github.com/user-attachments/assets/1f71a89b-27f9-4303-aa52-618a694c14a0" />
 
