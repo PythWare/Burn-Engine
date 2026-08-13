@@ -43,6 +43,10 @@ Host file system allows the game to be ran while the files are unpacked. The req
 
 the end result should be SLUS_200.79.hostfs.elf, unpacked_linkdata, and DW2.bin (or whatever your bin/iso is called) in the same directory.
 
+# Modding unpacked files
+
+If you choose to mod the unpacked files manually instead of using the editors within Burn Engine, one thing you need to know is if the files you mod grow in size you may need to run my Host-FS TOC Updater to update the elf since DW2 was originally hardcoded by Omega Force with certain restrictions which Burn Engine can bypass.
+
 # Afterburn Stageworks (meant to replace Visual Guider as the main Stage Editor to use)
 
 AFterburn Staeworks is Visual Guider overhauled with a new GUI. Panels can be moved around, you can hide the UI, etc. Like with Visual Guider it mods the battlefield data that determines who and where fights for side 1 and 2. Each stage has its map loaded, populated with all squads/forces on the map automatically, allows editing squad data (coordinates where squads spawn, leader id, guard id, parameters, etc), zooming in/out to adjust the display of the map, clicking a squad or their name in the list (which takes you directly to the squad so you don't have to manually find them) displays their squad data, morale bar toggle, guard toggle, etc. Afterburn Stageworks does everything the Visual Guider can but has a way better design and still includes all the features visual guider had even the genetic algorithm. For a full description of what Afterburn Stageworks can do checkout Visual Guider which is what Afterburn Stageworks is based on https://github.com/PythWare/Dynasty-Warriors-2-Visual-Guider
