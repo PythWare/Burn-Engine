@@ -24,8 +24,11 @@ Once you have all of that, you should be able to double click main.pyw to run Bu
 Open admin command prompt, then run each of these commands:
 
 `python -m pip install pillow`
+
 `python -m pip install keystone-engine`
+
 `python -m pip install pyelftools`
+
 `python -m pip install capstone`
 
 # Host file system and what to do to get PCSX2 to run in hostfs mode
