@@ -1,13 +1,44 @@
 # Update
 
-Burn Engine will be ready to release soon with many new features for modding Dynasty Warriors 2
+Burn Engine is released but Overdrive Motionworks and Celica Mapworks will take more time before they're ready for public usage. So the public version of Burn Engine has Afterburn Stageworks, Knuckleforge, Dragonvault, Ember Registry, Golden Lineage, Emberchain, Emberflow, LINKDATA Unpacker, Host-FS Patcher, Host-FS TOC Updater, and the Mod Manager ready to use but Overdrive Motionworks and Celica Mapworks aren't ready for public usage yet.
 
 # Info
-Burn Engine is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 tools I made in the past. It's not ready to release but i'll explain the future features. Burn Engine is inspired by Yang Xiao Long from RWBY.
+Burn Engine is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 tools I made in the past. Burn Engine is inspired by Yang Xiao Long from RWBY.
 
-Written in Python, uses Tkinter (the GUI for the editors/hubs, highly optimized and custom designs) and pyglet for Map/Model/Animation rendering.
+Written in Python, uses Tkinter (the GUI for the editors/hubs, highly optimized and custom designs) and pyglet for Map/Model/Animation rendering. Scroll down for example images of the toolkit if desired
 
-<img width="1913" height="1027" alt="iburn1" src="https://github.com/user-attachments/assets/92431727-3a5b-44dc-a74c-e165b2928365" />
+<img width="1908" height="1033" alt="burn1" src="https://github.com/user-attachments/assets/1f71a89b-27f9-4303-aa52-618a694c14a0" />
+
+# Requirements and how to use
+
+The core requirements are Python 3, Pillow (python imaging library, used by Afterburn Stageworks), windows PC, US version of Dynasty Warriors 2, and PCSX2 1.6 (for the hostfs usage, I will try to support newer versions of PCSX2 at a later date)
+
+The main dependencies you must install for host file system usage are keystone-engine, capstone, and pyelftools
+
+dw2_hostfs_patch relies on capstone and keystone for mips usage, dw2_linkdata_extract uses pyelftools during the unpacking process for the elf file
+
+Once you have all of that, you should be able to double click main.pyw to run Burn Engine. If nothing happens then open command prompt in the current directory and type `python main.pyw` (you shouldn't need to do that but some users have fualty python installations)
+
+# To install the dependencies needed
+
+Open admin command prompt, then run each of these commands:
+
+`python -m pip install pillow`
+`python -m pip install keystone-engine`
+`python -m pip install pyelftools`
+`python -m pip install capstone`
+
+# Host file system and what to do to get PCSX2 to run in hostfs mode
+
+Host file system allows the game to be ran while the files are unpacked. The requirements are to have linkdata.bns unpacked, have the elf patched by my Host-FS Patcher (which is part of Burn Engine, just click the button), and have SLUS_200.79.hostfs.elf, unpacked_linkdata, and DW2.bin (or whatever your bin/iso is called) in the same directory since PCSX2 will look for unpacked_linkdata when ran in hostfs mode. LINKDATA Unpacker is used for linkdata.bns, not other files such as BGM.BNS. Below are detailed steps to properly setup hostfs
+
+1. Use LINKDATA Unpacker to unpack linkdata.bns (where the bulk of the game's assets are stored, you can grab linkdata.bns from the DW2 bin/iso with something like CDmage), while you're grabbing linkdata.bns from the bin/iso make sure to extract SLUS_200.79 (the elf) as well since Host-FS Patcher will create the patched version of the elf.
+
+2. Once you have linkdata.bns unpacked and SLUS_200.79 extracted, go to whatever directory your PCSX2 1.6 stores PCSX2_vm.ini and look for the line that says `HostFs=`, set it to enabled
+
+3. After that, you should be good to go. Just open pcsx2, select run elf, and choose the hostfs patched elf Burn Engine creates. The bonus of doing the hostfs route is not only the files are unpacked and any modifications done to the unpacked files reflect ingame but also load times are extremely fast now.
+
+the end result should be SLUS_200.79.hostfs.elf, unpacked_linkdata, and DW2.bin (or whatever your bin/iso is called) in the same directory.
 
 # Afterburn Stageworks (meant to replace Visual Guider as the main Stage Editor to use)
 
