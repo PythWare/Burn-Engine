@@ -1,6 +1,6 @@
 ### Burn Engine End User License Agreement and Source License
 
-By downloading, installing, or using Burn Engine ("the Software"), you agree to the following terms. If you do not agree, you must not use the Software.
+By downloading, installing, or using Burn Engine ("the Software"), you agree to the following terms. If you don't agree, you mustn't use the Software.
 
 **1. Grant of License (Personal, Non-Commercial Use Only)**
 
@@ -20,13 +20,13 @@ This tool is intended solely for the personal modification of legally owned game
 
 **4. Third-Party Dependencies (Arms-Length Separation)**
 
-Burn Engine operates by dynamically interfacing with globally installed third-party Python modules at runtime. Burn Engine does not bundle these libraries, and they remain entirely separate works governed by their respective licenses:
+Burn Engine operates by dynamically interfacing with globally installed third-party Python modules at runtime. Burn Engine doesn't bundle these libraries and they remain entirely separate works governed by their respective licenses:
 
 * **Capstone Engine:** BSD License
 * **Keystone Engine:** GPLv2/Dual-Licensed
 * **pyelftools:** Public Domain
 
-This License applies exclusively to the Burn Engine source code authored by the repository owner. It does not claim ownership of, supersede, or alter the rights granted by the original authors of the aforementioned dependencies.
+This License applies exclusively to the Burn Engine source code authored by the repository owner. It doesn't claim ownership of, supersede, or alter the rights granted by the original authors of the aforementioned dependencies.
 
 **5. No Warranty/Limitation of Liability**
 
